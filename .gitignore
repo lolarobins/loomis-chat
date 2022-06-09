@@ -1,0 +1,9 @@
+dependencies
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+build
+.vscode
+Makefile
+chatserver
+.DS_STORE
